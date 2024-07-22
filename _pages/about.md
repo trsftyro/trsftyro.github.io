@@ -18,7 +18,7 @@ I'm Liu Yuyang, a research fellow in [Shanghai Zhangjiang Institute of Mathemati
 
 ## Selected Publications
 
-- **[Hypothesis tests in the ordinal predictive models with optimal accuracy.](Paper Link 1)**: Y.Liu, S.Luo and J.Li (2024)，Biometrics. Accepted. 
+- **[Liu2024Biometrics](Paper Link 1)**: Y.Liu, S.Luo and J.Li (2024). Hypothesis tests in the ordinal predictive models with optimal accuracy. Biometrics. Accepted.
 
 ## Contact Me
 
