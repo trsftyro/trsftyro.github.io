@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Research Fellow in [Shanghai Zhangjiang Institute of Mathematics](https://www.szim.ac.cn/). I am a Ph.D in statistics graduated from [School of Mathematical Sciences at Shanghai Jiao Tong University](https://math.sjtu.edu.cn/) in 2024. I am devoted to develop the methodology on statistical inference with interesting theoretical result.
+I am a Research Fellow in [Shanghai Zhangjiang Institute of Mathematics](https://www.szim.ac.cn/). I am a Ph.D in statistics graduated from [School of Mathematical Sciences at Shanghai Jiao Tong University](https://math.sjtu.edu.cn/) in 2024. I am devoted to developing the methodology on statistical inference with interesting theoretical result.
 
 ## My interests
 
